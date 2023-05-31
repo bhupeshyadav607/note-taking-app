@@ -1,0 +1,28 @@
+.view-container {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.view-paper {
+    height: 100vh;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-paper {
+    width: 60%;
+    height: 50%;
+}
+
+.note-content {
+    padding: 1rem;
+    text-align: left;
+    font-size: 1.2rem !important;
+}
