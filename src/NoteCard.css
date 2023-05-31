@@ -4,6 +4,7 @@
     margin-bottom: 1.5rem;
     background: #E6EBEA !important;
     cursor: pointer;
+    position: relative;
 }
 
 .note-title {
@@ -16,7 +17,8 @@
     display: flex;
     justify-content: space-between;
     position: absolute;
-    margin-left: 19.5rem;
+    right: 8px;
+    top: 5px;
     width: 3.3rem;
     visibility: hidden;
     opacity: 0;
